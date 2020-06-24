@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fulogy-app/static/css/main.be766aca.chunk.css",
-    "main.js": "/fulogy-app/static/js/main.7b45a2c9.chunk.js",
-    "main.js.map": "/fulogy-app/static/js/main.7b45a2c9.chunk.js.map",
+    "main.css": "/fulogy-app/static/css/main.499ed7f1.chunk.css",
+    "main.js": "/fulogy-app/static/js/main.fb233b16.chunk.js",
+    "main.js.map": "/fulogy-app/static/js/main.fb233b16.chunk.js.map",
     "runtime-main.js": "/fulogy-app/static/js/runtime-main.e2a6aca2.js",
     "runtime-main.js.map": "/fulogy-app/static/js/runtime-main.e2a6aca2.js.map",
     "static/css/2.382c35bb.chunk.css": "/fulogy-app/static/css/2.382c35bb.chunk.css",
-    "static/js/2.22c4ff6a.chunk.js": "/fulogy-app/static/js/2.22c4ff6a.chunk.js",
-    "static/js/2.22c4ff6a.chunk.js.map": "/fulogy-app/static/js/2.22c4ff6a.chunk.js.map",
+    "static/js/2.ae09b968.chunk.js": "/fulogy-app/static/js/2.ae09b968.chunk.js",
+    "static/js/2.ae09b968.chunk.js.map": "/fulogy-app/static/js/2.ae09b968.chunk.js.map",
     "index.html": "/fulogy-app/index.html",
-    "precache-manifest.3fe8eecd013a879ee82f0f9bf67dd8ed.js": "/fulogy-app/precache-manifest.3fe8eecd013a879ee82f0f9bf67dd8ed.js",
+    "precache-manifest.a82a84e7df04ab60f74996f6c0f87e04.js": "/fulogy-app/precache-manifest.a82a84e7df04ab60f74996f6c0f87e04.js",
     "service-worker.js": "/fulogy-app/service-worker.js",
     "static/css/2.382c35bb.chunk.css.map": "/fulogy-app/static/css/2.382c35bb.chunk.css.map",
-    "static/css/main.be766aca.chunk.css.map": "/fulogy-app/static/css/main.be766aca.chunk.css.map",
-    "static/js/2.22c4ff6a.chunk.js.LICENSE.txt": "/fulogy-app/static/js/2.22c4ff6a.chunk.js.LICENSE.txt",
+    "static/css/main.499ed7f1.chunk.css.map": "/fulogy-app/static/css/main.499ed7f1.chunk.css.map",
+    "static/js/2.ae09b968.chunk.js.LICENSE.txt": "/fulogy-app/static/js/2.ae09b968.chunk.js.LICENSE.txt",
     "static/media/LampConstructor.module.sass": "/fulogy-app/static/media/check-square-solid.9c231634.svg",
     "static/media/info-solid.17861ffe.svg": "/fulogy-app/static/media/info-solid.17861ffe.svg",
     "static/media/logo.8ed1c422.svg": "/fulogy-app/static/media/logo.8ed1c422.svg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.e2a6aca2.js",
     "static/css/2.382c35bb.chunk.css",
-    "static/js/2.22c4ff6a.chunk.js",
-    "static/css/main.be766aca.chunk.css",
-    "static/js/main.7b45a2c9.chunk.js"
+    "static/js/2.ae09b968.chunk.js",
+    "static/css/main.499ed7f1.chunk.css",
+    "static/js/main.fb233b16.chunk.js"
   ]
 }
