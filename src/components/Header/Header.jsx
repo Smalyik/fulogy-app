@@ -8,7 +8,9 @@ import BurgerMenu from '../UI/BurgerMenu';
 const Header = () => {
 	return (
 		<div className={s.header}>
-			<Logo />
+			<a href="#" className={s.logo}>
+				<Logo />
+			</a>
 			<div className={s.iconsWrapper}>
 				<a href="#">
 					<ShoppingBasketIcon
